@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: rgb(117, 178, 143);
+  text-align: center;
+}
+
+
+.box {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  border: none;
+  font-size: 20px;
+  color: rgb(182, 40, 40);
+  background-color: #ffffc7;
+} 
+ #reset-btn {
+  padding: 15px;
+  font-size: 20px;
+  background-color: #191913;
+  color: #fff;
+  border-radius: 30px;
+  border: none;
+}
+
+.msg {
+  color: blueviolet;
+  font-size: 20px;
+}
+.msg-container {
+  height: 50px;
+}
+.hide{
+  display: none;
+}
+
